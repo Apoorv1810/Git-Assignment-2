@@ -16,6 +16,7 @@ A list of participants in CSC 195
 * Linda Oyolu
 * Samuel A. Rebelsky
 * Abby E. Stevens
+* Apoorv Sharma
 * Zoe Wolter
 * Muhammad Samee Zahid
 * Mira E. Hall
